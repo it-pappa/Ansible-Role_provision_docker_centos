@@ -6,7 +6,7 @@ galaxy_info:
   license: BSD-3-Clause
   min_ansible_version: 2.11
   platforms:
-    - name: RHEL
+    - name: Red Hat Enterprice
     - name: CentOS
       versions:
         - 8

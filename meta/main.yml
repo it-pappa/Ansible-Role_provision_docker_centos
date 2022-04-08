@@ -1,6 +1,7 @@
 galaxy_info:
   author: Dan Eckholm
   description: Deploy Docker on Centos/Rocky Linux
+  role_name: provision_docker_centos
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value

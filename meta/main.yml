@@ -6,14 +6,15 @@ galaxy_info:
   license: BSD-3-Clause
   min_ansible_version: 2.11
   platforms:
-    - name: Red Hat Enterprice
-    - name: CentOS
+    - name: RHEL
       versions:
         - 8
+    - name: CentOS
+      versions:
+        - 7
   galaxy_tags:
     - docker
     - centos
+    - RHEL
+    - RHEL8
     
-
-
-dependencies: []
